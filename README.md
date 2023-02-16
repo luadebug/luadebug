@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm 淇淋 📕 ✏</h1>
+<h1 align="center">Hi~ 👋, I'm 淇淋 📕 </h1>
+<h1 align="center">Nice to meet you~ 📝</h1>
+<h1 align="center"> 我喜欢和你在一起。 💞</h1>
 <p> <img src="https://komarev.com/ghpvc/?username=LinEvelynn&label=Profile%20views&color=0e75b6&style=flat" alt="LinEvelynn" /> </p>
 <p> <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=LinEvelynn&count_private=true&show_icons=true&show_icons=true&theme=dracula" /> </p>
 <p> <img alt="Stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=LinEvelynn&theme=dracula" /> </p>
