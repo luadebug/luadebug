@@ -5,4 +5,4 @@
 <p align="center"> <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Saikari&count_private=true&show_icons=true&show_icons=true&theme=dracula"  /> </p>
 <p align="center"> <img alt="Stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=Saikari&theme=dracula"  /> </p>
 <p align="center"> <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikari&layout=compact&langs_count=10&show_icons=true&theme=dracula"  /> </p>
-<a align="center" href="https://discord.com/users/994156394129403937"><img src="https://lanyard.cnrad.dev/api/994156394129403937?borderRadius=20px&bg=00000000" alt="Discord"  /></a>
+<a align="center" href="https://discord.com/users/994156394129403937"><img align="center" src="https://lanyard.cnrad.dev/api/994156394129403937?borderRadius=20px&bg=00000000" alt="Discord"  /></a>
