@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/fe74bd124e20161c5650071275a19286724967d401144f1ce8ced93bccfda58e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d576176696e6726636f6c6f723d74696d654772616469656e74266865696768743d32303026616e696d6174696f6e3d66616465496e2673656374696f6e3d68656164657226746578743d48616c6f6f2d5468697369732d58434154494e472d492d4c4f56452d5526666f6e7453697a653d3335" alt="Header" data-canonical-src="https://capsule-render.vercel.app/api?type=Waving&amp;color=timeGradient&amp;height=200&amp;animation=fadeIn&amp;section=header&amp;text=🇨🇳&amp;fontSize=24" style="max-width: 100%;">
+
 <h1 align="center">Hi~ 👋, I'm Saikari 📕 </h1>
 <h1 align="center">Nice to meet you~ 📝</h1>
 <h1 align="center"> 我喜欢和你在一起。 💞</h1>
