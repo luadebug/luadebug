@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&amp;color=timeGradient&amp;height=200&amp;animation=fadeIn&amp;section=header&amp;text=%E8%B0%A2%E8%B0%A2%E6%82%A8%20%E7%90%B3🇨🇳&amp;fontSize=24" style="max-width: 100%;">
+<img src="https://capsule-render.vercel.app/api?type=Waving&amp;color=timeGradient&amp;height=200&amp;animation=fadeIn&amp;section=header&amp;text=%E8%B0%A2%E8%B0%A2%E6%82%A8%20%E7%90%B3 🇨🇳&amp;fontSize=24" style="max-width: 100%;">
 <h1 align="center">Hi~ 👋, I'm Saikari 📕 </h1>
 <h1 align="center">Nice to meet you~ 📝</h1>
 <h1 align="center"> 我喜欢和你在一起。 💞</h1>
