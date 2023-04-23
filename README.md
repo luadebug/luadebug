@@ -13,7 +13,7 @@
 <p dir="auto" align="center">
     <img width=50% height=50%  src="https://i.imgur.com/4O1DFeO.png">
 </p>
-<p><img src="https://img.shields.io/badge/-Astolfo--chan%20is%20now%20sad%20and%20will%20no%20longer%20work%20with%20this%20project-ff1100"></p>
+<p><img src="https://img.shields.io/badge/-ʜᴀ͟ᴘ͟ᴘ͟ʏ ᴇᴠᴇʀʏᴅᴀʏ̆̈"></p>
 <p dir="auto" align="center">
     <kbd align-items="center">
     <img src="https://lanyard.cnrad.dev/api/994156394129403937?idleMessage=Possibly%20watching%20Shiro%20doing%20random%20things..." alt="Discord Status" data-canonical-src="" style="max-width: 100%;">
