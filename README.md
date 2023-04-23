@@ -8,7 +8,7 @@
 <p align="center"> <img alt="Stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=Saikari&theme=dracula"  width=50%/> </p>
 <p align="center"> <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikari&layout=compact&langs_count=10&show_icons=true&theme=dracula" width=50% /> </p>
 
-<kbd align-items="center">
+<kbd align-items="center" justify-content="center">
 <img src="https://i.imgur.com/E5lHT7S.png" width=50% height=50%>
 <img src="https://i.imgur.com/F6CdVwf.png" width=50% height=50%>
 </kbd>
