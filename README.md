@@ -10,7 +10,7 @@
 
 
 <p dir="auto" align="center">
-    <img  width=25% height=25%  src="https://i.imgur.com/4O1DFeO.png">
+    <img width=50% height=50%  src="https://i.imgur.com/4O1DFeO.png">
 </p>
 
 
