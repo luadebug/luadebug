@@ -9,7 +9,7 @@
 <p align="center"> <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikari&layout=compact&langs_count=10&show_icons=true&theme=dracula" width=50% /> </p>
 
 <kbd  width=50% height=50% >
-<img src="https://i.imgur.com/E5lHT7S.png">
+<img  width=50% height=50%  src="https://i.imgur.com/E5lHT7S.png">
 </kbd>
 <p dir="auto" align="center">
     <kbd align-items="center">
