@@ -12,6 +12,7 @@
 <img  width=25% height=25%  src="https://i.imgur.com/4O1DFeO.png">
 <img  width=25% height=25%  src="https://i.imgur.com/4O1DFeO.png">
 </p>
+</kbd>
 <kbd align-items="center">
 <p dir="auto" align="center">
     <kbd align-items="center">
