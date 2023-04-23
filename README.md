@@ -16,7 +16,7 @@
 
 <p dir="auto" align="center">
     <kbd align-items="center">
-    <img src="https://lanyard.cnrad.dev/api/994156394129403937?idleMessage=Possibly%20watching%20Shiro%20doing%20random%20things...&bg=FFBDF7" alt="Discord Status" data-canonical-src="" style="max-width: 100%;">
-    <img src="https://lanyard.cnrad.dev/api/138037751369957376?idleMessage=Possibly%20teasing%20Saikari%20for%20no%20reason~&bg=C4CDE4" alt="Discord Status" data-canonical-src="" style="max-width: 100%;">
+    <img src="https://lanyard.cnrad.dev/api/994156394129403937?idleMessage=Possibly%20watching%20Shiro%20doing%20random%20things..." alt="Discord Status" data-canonical-src="" style="max-width: 100%;">
+    <img src="https://lanyard.cnrad.dev/api/138037751369957376?idleMessage=Possibly%20teasing%20Saikari%20for%20no%20reason~" alt="Discord Status" data-canonical-src="" style="max-width: 100%;">
      </kbd>
 </p>
