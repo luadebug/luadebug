@@ -8,8 +8,9 @@
 <p align="center"> <img alt="Stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=Saikari&theme=dracula"  width=50%/> </p>
 <p align="center"> <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikari&layout=compact&langs_count=10&show_icons=true&theme=dracula" width=50% /> </p>
 
-
-<img align="center" src="https://i.imgur.com/E5lHT7S.png" width=50% height=50%>
+<p align="center">
+<img  src="https://i.imgur.com/E5lHT7S.png" width=50% height=50%>
+</p>
 <p dir="auto" align="center">
     <kbd>
     <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://lanyard.cnrad.dev/api/994156394129403937" alt="Discord Status" data-canonical-src="https://lanyard.cnrad.dev/api/994156394129403937?idleMessage=Possibly%20watching%20Shiro%20doing%20random%20things..." style="max-width: 100%;"></a> 
