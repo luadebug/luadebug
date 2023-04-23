@@ -15,7 +15,7 @@
 </p>
 <kbd>
 
-    <img src="https://img.shields.io/badge/-%CA%9C%E1%B4%80%CD%9F%E1%B4%98%CD%9F%E1%B4%98%CD%9F%CA%8F%20%E1%B4%87%E1%B4%A0%E1%B4%87%CA%80%CA%8F%E1%B4%85%E1%B4%80%CA%8F%CC%86%CC%88-red">
+    <img src="https://img.shields.io/badge/-%CA%9C%E1%B4%80%CD%9F%E1%B4%98%CD%9F%E1%B4%98%CD%9F%CA%8F%20%E1%B4%87%E1%B4%A0%E1%B4%87%CA%80%CA%8F%E1%B4%85%E1%B4%80%CA%8F%CC%86%CC%88-red"/>
 
 </kbd>
 <p dir="auto" align="center">
