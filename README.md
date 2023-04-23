@@ -13,7 +13,7 @@
 <p dir="auto" align="center">
     <img width=50% height=50%  src="https://i.imgur.com/4O1DFeO.png">
 </p>
-<kbd>
+<kbd align-items="center">
 <p align="center">
     <img src="https://img.shields.io/badge/-%CA%9C%E1%B4%80%CD%9F%E1%B4%98%CD%9F%E1%B4%98%CD%9F%CA%8F%20%E1%B4%87%E1%B4%A0%E1%B4%87%CA%80%CA%8F%E1%B4%85%E1%B4%80%CA%8F%CC%86%CC%88-red">
 </p>
