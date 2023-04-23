@@ -13,7 +13,9 @@
 <p dir="auto" align="center">
     <img width=50% height=50%  src="https://i.imgur.com/4O1DFeO.png">
 </p>
-<p><img src="https://img.shields.io/badge/-%CA%9C%E1%B4%80%CD%9F%E1%B4%98%CD%9F%E1%B4%98%CD%9F%CA%8F%20%E1%B4%87%E1%B4%A0%E1%B4%87%CA%80%CA%8F%E1%B4%85%E1%B4%80%CA%8F%CC%86%CC%88-red"></p>
+<p align="center">
+    <img src="https://img.shields.io/badge/-%CA%9C%E1%B4%80%CD%9F%E1%B4%98%CD%9F%E1%B4%98%CD%9F%CA%8F%20%E1%B4%87%E1%B4%A0%E1%B4%87%CA%80%CA%8F%E1%B4%85%E1%B4%80%CA%8F%CC%86%CC%88-red">
+</p>
 <p dir="auto" align="center">
     <kbd align-items="center">
     <img src="https://lanyard.cnrad.dev/api/994156394129403937?idleMessage=Possibly%20watching%20Shiro%20doing%20random%20things..." alt="Discord Status" data-canonical-src="" style="max-width: 100%;">
