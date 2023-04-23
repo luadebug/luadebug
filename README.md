@@ -12,8 +12,8 @@
 
 <p dir="auto" align="center">
     <kbd align-items="center">
-        <img style="max-width: 100%;"  src="https://i.imgur.com/4O1DFeO.png">
-        <img style="max-width: 100%;"  src="https://i.imgur.com/4O1DFeO.png">
+        <img style="max-width: 50%;"  src="https://i.imgur.com/4O1DFeO.png">
+        <img style="max-width: 50%;"  src="https://i.imgur.com/4O1DFeO.png">
      </kbd>
 </p>
 
