@@ -10,7 +10,7 @@
 
 
 <p dir="auto" align="center">
-    <kbd align-items="center">
+    <kbd align-items="center" max-width=50%>
 <img  width=25% height=25%  src="https://i.imgur.com/4O1DFeO.png">
 <img  width=25% height=25%  src="https://i.imgur.com/4O1DFeO.png">
      </kbd>
