@@ -9,10 +9,13 @@
 <p align="center"> <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikari&layout=compact&langs_count=10&show_icons=true&theme=dracula" width=50% /> </p>
 
 
-<p dir="auto" align="center">
-    <img width=50% height=50%  src="https://i.imgur.com/4O1DFeO.png">
-</p>
 
+<p dir="auto" align="center">
+    <kbd align-items="center">
+        <img style="max-width: 100%;"  src="https://i.imgur.com/4O1DFeO.png">
+        <img style="max-width: 100%;"  src="https://i.imgur.com/4O1DFeO.png">
+     </kbd>
+</p>
 
 <p dir="auto" align="center">
     <kbd align-items="center">
