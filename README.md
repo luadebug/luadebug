@@ -11,9 +11,7 @@
 
 
 <p dir="auto" align="center">
-    <kbd align-items="center">
-        <img src="https://i.imgur.com/4O1DFeO.png">
-     </kbd>
+    <img width=50% height=50%  src="https://i.imgur.com/4O1DFeO.png">
 </p>
 
 <p dir="auto" align="center">
