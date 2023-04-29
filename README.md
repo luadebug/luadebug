@@ -11,9 +11,9 @@
 
 <p dir="auto" align="center">
     <kbd align-items="center">
-<img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Saikari&count_private=true&show_icons=true&show_icons=true&theme=dracula" width=30% />
-<img alt="Stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=Saikari&theme=dracula"  width=30%/> 
-<img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikari&layout=compact&langs_count=10&show_icons=true&theme=dracula" width=30% />
+        <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Saikari&count_private=true&show_icons=true&show_icons=true&theme=dracula" width=30% height=30% />
+        <img alt="Stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=Saikari&theme=dracula"  width=30% height=30%/> 
+        <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikari&layout=compact&langs_count=10&show_icons=true&theme=dracula" width=30% height=30% />
      </kbd>
 </p>
 
@@ -27,7 +27,7 @@
 </p>
 <p dir="auto" align="center">
     <kbd align-items="center">
-    <img src="https://lanyard.cnrad.dev/api/994156394129403937?idleMessage=Possibly%20watching%20Shiro%20doing%20random%20things..." alt="Discord Status" data-canonical-src="" style="max-width: 100%;">
-    <img src="https://lanyard.cnrad.dev/api/138037751369957376?idleMessage=Possibly%20teasing%20Saikari%20for%20no%20reason~" alt="Discord Status" data-canonical-src="" style="max-width: 100%;">
+        <img src="https://lanyard.cnrad.dev/api/994156394129403937?idleMessage=Possibly%20watching%20Shiro%20doing%20random%20things..." alt="Discord Status" data-canonical-src="" style="max-width: 100%;">
+        <img src="https://lanyard.cnrad.dev/api/138037751369957376?idleMessage=Possibly%20teasing%20Saikari%20for%20no%20reason~" alt="Discord Status" data-canonical-src="" style="max-width: 100%;">
      </kbd>
 </p>
