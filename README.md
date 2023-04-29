@@ -11,9 +11,9 @@
 
 <p dir="auto" align="center">
     <kbd align-items="center">
-        <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Saikari&count_private=true&show_icons=true&show_icons=true&theme=dracula" width=30% height=30% />
-        <img alt="Stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=Saikari&theme=dracula"  width=30% height=30%/> 
-        <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikari&layout=compact&langs_count=10&show_icons=true&theme=dracula" width=30% height=30% />
+        <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Saikari&count_private=true&show_icons=true&show_icons=true&theme=dracula" width=31% height=50% />
+        <img alt="Stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=Saikari&theme=dracula"  width=31% height=50%/> 
+        <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikari&layout=compact&langs_count=10&show_icons=true&theme=dracula" width=31% height=50% />
      </kbd>
 </p>
 
