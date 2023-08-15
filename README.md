@@ -10,7 +10,7 @@
 <h1 align="center">我喜欢和你在一起。 💞</h1>
 
 <img src="https://github-readme-stats-saikari.vercel.app/api?username=Saikari&show_icons=true&theme=radical">
-<img src="https://github-readme-stats-saikari.vercel.app/api/top-langs/?username=Saikari&langs_count=8&layout=pie">
+<img src="https://github-readme-stats-saikari.vercel.app/api/top-langs/?username=Saikari&langs_count=10&layout=pie">
 
 <p dir="auto" align="center">
     <img width=50% height=50%  src="https://i.imgur.com/4O1DFeO.png">
