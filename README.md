@@ -18,7 +18,7 @@
 </p>
 
 
-<img src="https://raw.githubusercontent.com/Saikari/test-card/master/profile-summary-card-output/2077/0-profile-details.svg">
+<img src="https://raw.githubusercontent.com/Saikari/test-card/master/profile-summary-card-output/2077/0-profile-details.svg?token=GHSAT0AAAAAACGKCKVCKON52JEP7FCTPS56ZG3KKQQ">
 
 
 
