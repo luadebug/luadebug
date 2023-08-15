@@ -11,7 +11,7 @@
 <p dir="auto" align="center">
     <kbd align-items="center">
 <img src="https://github-readme-stats-saikari.vercel.app/api?username=Saikari&show_icons=true&theme=radical">
-<img src="https://github-readme-stats-saikari.vercel.app/api/top-langs/?username=Saikari&langs_count=8&theme=radical">
+<img src="https://github-readme-stats-saikari.vercel.app/api/top-langs/?username=Saikari&langs_count=8&layout=pie">
      </kbd>
 </p>
 <p dir="auto" align="center">
