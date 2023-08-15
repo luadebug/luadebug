@@ -18,9 +18,11 @@
 </p>
 
 
-[![](./0-profile-details.svg)](https://github.com/Saikari/test-card/tree/master/profile-summary-card-output/2077)
-[![](./1-repos-per-language.svg)](https://github.com/Saikari/test-card/tree/master/profile-summary-card-output/2077) [![](./2-most-commit-language.svg)](https://github.com/Saikari/test-card/tree/master/profile-summary-card-output/2077)
-[![](./3-stats.svg)](https://github.com/Saikari/test-card/tree/master/profile-summary-card-output/2077) [![](./4-productive-time.svg)](https://github.com/Saikari/test-card/tree/master/profile-summary-card-output/2077)
+[![](https://raw.githubusercontent.com/Saikari/test-card/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Saikari/test-card/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Saikari/test-card/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Saikari/test-card/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Saikari/test-card/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
 
 <p dir="auto" align="center">
     <img width=50% height=50%  src="https://i.imgur.com/4O1DFeO.png">
