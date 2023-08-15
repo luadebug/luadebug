@@ -17,13 +17,15 @@
      </kbd>
 </p>
 
-
-<img src="https://raw.githubusercontent.com/Saikari/test-card/master/profile-summary-card-output/2077/0-profile-details.svg?token=GHSAT0AAAAAACGKCKVCKON52JEP7FCTPS56ZG3KKQQ">
-<img src="https://raw.githubusercontent.com/Saikari/test-card/master/profile-summary-card-output/2077/1-repos-per-language.svg?token=GHSAT0AAAAAACGKCKVC34LMSWZCEF6W247CZG3KMOA">
-<img src="https://raw.githubusercontent.com/Saikari/test-card/master/profile-summary-card-output/2077/2-most-commit-language.svg?token=GHSAT0AAAAAACGKCKVCS26ML7KIMXW7LOYIZG3KM4A">
-<img src="https://raw.githubusercontent.com/Saikari/test-card/master/profile-summary-card-output/2077/3-stats.svg?token=GHSAT0AAAAAACGKCKVCISZBDFO5XUS5MCW4ZG3KNGQ">
-<img src="https://raw.githubusercontent.com/Saikari/test-card/master/profile-summary-card-output/2077/4-productive-time.svg?token=GHSAT0AAAAAACGKCKVCVAFKPOTHA26GM2FOZG3KNQQ">
-
+<p dir="auto" align="center">
+    <kbd align-items="center">
+        <img src="https://raw.githubusercontent.com/Saikari/test-card/master/profile-summary-card-output/2077/0-profile-details.svg?token=GHSAT0AAAAAACGKCKVCKON52JEP7FCTPS56ZG3KKQQ">
+        <img src="https://raw.githubusercontent.com/Saikari/test-card/master/profile-summary-card-output/2077/1-repos-per-language.svg?token=GHSAT0AAAAAACGKCKVC34LMSWZCEF6W247CZG3KMOA">
+        <img src="https://raw.githubusercontent.com/Saikari/test-card/master/profile-summary-card-output/2077/2-most-commit-language.svg?token=GHSAT0AAAAAACGKCKVCS26ML7KIMXW7LOYIZG3KM4A">
+        <img src="https://raw.githubusercontent.com/Saikari/test-card/master/profile-summary-card-output/2077/3-stats.svg?token=GHSAT0AAAAAACGKCKVCISZBDFO5XUS5MCW4ZG3KNGQ">
+        <img src="https://raw.githubusercontent.com/Saikari/test-card/master/profile-summary-card-output/2077/4-productive-time.svg?token=GHSAT0AAAAAACGKCKVCVAFKPOTHA26GM2FOZG3KNQQ">
+     </kbd>
+</p>
 <p dir="auto" align="center">
     <img width=50% height=50%  src="https://i.imgur.com/4O1DFeO.png">
 </p>
