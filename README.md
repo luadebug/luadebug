@@ -8,16 +8,7 @@
 <h1 align="center">Hi~ 👋, I'm Saikari 📕</h1>
 <h1 align="center">Nice to meet you~ 📝</h1>
 <h1 align="center">我喜欢和你在一起。 💞</h1>
-<p dir="auto" align="center">
-    <kbd align-items="center">
-<img src="https://github-readme-stats-saikari.vercel.app/api?username=Saikari&show_icons=true&theme=radical">
-    </kbd>
-</p>
-<p dir="auto" align="center">
-    <kbd align-items="center">
-<img src="https://github-readme-stats-saikari.vercel.app/api/top-langs/?username=Saikari&langs_count=20&layout=pie&card_width=320">
-     </kbd>
-</p>
+
 <p dir="auto" align="center">
     <img width=50% height=50%  src="https://i.imgur.com/4O1DFeO.png">
 </p>
