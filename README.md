@@ -18,12 +18,12 @@
 <img src="https://img.shields.io/badge/-%CA%9C%E1%B4%80%CD%9F%E1%B4%98%CD%9F%E1%B4%98%CD%9F%CA%8F%20%E1%B4%87%E1%B4%A0%E1%B4%87%CA%80%CA%8F%E1%B4%85%E1%B4%80%CA%8F%CC%86%CC%88-red">
 </p>
 <p dir="auto" align="center">
-    <h1>Me and my GF</h1>
+    <h1 text-align="center">Me and my GF</h1>
     <kbd align-items="center">
         <img src="https://discord-readme-badge.vercel.app/api?id=994156394129403937">
         <img src="https://discord-readme-badge.vercel.app/api?id=727934726484262972">
     </kbd>
-    <h1>Me and my BFF</h1>
+    <h1 text-align="center">Me and my BFF</h1>
     <kbd align-items="center">
         <img src="https://lanyard.cnrad.dev/api/994156394129403937?idleMessage=Possibly%20watching%20Shiro%20doing%20random%20things..." alt="Discord Status" data-canonical-src="" style="max-width: 100%;">
         <img src="https://lanyard.cnrad.dev/api/138037751369957376?idleMessage=Possibly%20teasing%20Saikari%20for%20no%20reason~" alt="Discord Status" data-canonical-src="" style="max-width: 100%;">
