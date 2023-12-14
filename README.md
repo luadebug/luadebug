@@ -20,8 +20,8 @@
 <p dir="auto" align="center">
     <h1 text-align="center">Me and my GF</h1>
     <kbd align-items="center">
-        <img src="https://discord-readme-badge.vercel.app/api?id=994156394129403937">
-        <img src="https://discord-readme-badge.vercel.app/api?id=727934726484262972">
+        <img src="https://lanyard.cnrad.dev/api/994156394129403937?idleMessage=Hugging%20Hiro%20and%20enjoy%20playing%20together%20kawaii%20games<3">
+        <img src="https://lanyard.cnrad.dev/api/727934726484262972?idleMessage=Streams%20games%20and%20cuddle%20Sai<3">
     </kbd>
     <h1 text-align="center">Me and my BFF</h1>
     <kbd align-items="center">
