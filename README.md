@@ -17,15 +17,3 @@
 <p align="center">
 <img src="https://img.shields.io/badge/-%CA%9C%E1%B4%80%CD%9F%E1%B4%98%CD%9F%E1%B4%98%CD%9F%CA%8F%20%E1%B4%87%E1%B4%A0%E1%B4%87%CA%80%CA%8F%E1%B4%85%E1%B4%80%CA%8F%CC%86%CC%88-red">
 </p>
-<p dir="auto" align="center">
-    <h1 text-align="center">Me and my GF</h1>
-    <kbd align-items="center">
-        <img src="https://lanyard.cnrad.dev/api/994156394129403937?idleMessage=Hugging%20Hiro%20and%20enjoy%20playing%20together%20kawaii%20games<3">
-        <img src="https://lanyard.cnrad.dev/api/727934726484262972?idleMessage=Streams%20games%20and%20cuddle%20Sai<3">
-    </kbd>
-    <h1 text-align="center">Me and my BFF</h1>
-    <kbd align-items="center">
-        <img src="https://lanyard.cnrad.dev/api/994156394129403937?idleMessage=Possibly%20watching%20Shiro%20doing%20random%20things..." alt="Discord Status" data-canonical-src="" style="max-width: 100%;">
-        <img src="https://lanyard.cnrad.dev/api/138037751369957376?idleMessage=Possibly%20teasing%20Saikari%20for%20no%20reason~" alt="Discord Status" data-canonical-src="" style="max-width: 100%;">
-     </kbd>
-</p>
