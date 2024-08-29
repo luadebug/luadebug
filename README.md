@@ -12,8 +12,10 @@
 
 <p align="center">
     <h1>My Discord</h1>
-    <!-- This comment helps to create a new "block" -->
-    <img src="https://lanyard.cnrad.dev/api/994156394129403937" width="200" alt="Discord Status">
+    <!-- Force a new line -->
+    <img src="https://lanyard.cnrad.dev/api/994156394129403937" 
+         alt="Discord Status" 
+         style="display: block; margin: auto;">
 </p>
 
 <p dir="auto" align="center">
