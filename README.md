@@ -16,7 +16,7 @@
     <h1>My Discord</h1>
     <div style="text-align:center;">
        <kbd align-items="center" align="center"> 
-          <img src="https://lanyard.cnrad.dev/api/994156394129403937" alt="Discord Status" width="200">
+          <img src="https://lanyard.cnrad.dev/api/994156394129403937" alt="Discord Status">
        </kbd>
     </div>
 </div>
