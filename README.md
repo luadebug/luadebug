@@ -10,13 +10,12 @@
 <h1 align="center">Nice to meet you~ 📝</h1>
 <h1 align="center">我喜欢和你在一起。 💞</h1>
 
-<p align="center">
+<div align="center">
     <h1>My Discord</h1>
-    <!-- Force a new line -->
-    <img src="https://lanyard.cnrad.dev/api/994156394129403937" 
-         alt="Discord Status" 
-         style="display: block; margin: auto;">
-</p>
+    <div style="text-align:center;">
+        <img src="https://lanyard.cnrad.dev/api/994156394129403937" alt="Discord Status" width="200">
+    </div>
+</div>
 
 <p dir="auto" align="center">
     <img width=50% height=50%  src="https://i.imgur.com/4O1DFeO.png">
