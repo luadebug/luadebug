@@ -13,9 +13,7 @@
 <p dir="auto" align="center">
     <h1 align="center">My Discord</h1>
     <kbd align-items="center">
-        <div align="center"> 
-            <img src="https://lanyard.cnrad.dev/api/994156394129403937">
-        </div>
+        <img src="https://lanyard.cnrad.dev/api/994156394129403937" style="display: block; margin: 0 auto;">
     </kbd>
 </p>
 
