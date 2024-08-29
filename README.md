@@ -10,11 +10,10 @@
 <h1 align="center">Nice to meet you~ 📝</h1>
 <h1 align="center">我喜欢和你在一起。 💞</h1>
 
-<p dir="auto" align="center">
-    <h1 align="center">My Discord</h1>
-    <div style="text-align: center;">
-        <img src="https://lanyard.cnrad.dev/api/994156394129403937" align="center"> 
-    </div>
+<p align="center">
+    <h1>My Discord</h1>
+    <!-- This comment helps to create a new "block" -->
+    <img src="https://lanyard.cnrad.dev/api/994156394129403937" width="200" alt="Discord Status">
 </p>
 
 <p dir="auto" align="center">
