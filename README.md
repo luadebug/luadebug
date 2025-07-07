@@ -22,7 +22,7 @@
 
 
 <p dir="auto" align="center">
-![image](https://i.imgur.com/4O1DFeO.png)
+<img src="https://i.imgur.com/4O1DFeO.png">
 </p>
 <h1 align="center">✍️ Random Dev Quote</h1>
 <p align="center">
